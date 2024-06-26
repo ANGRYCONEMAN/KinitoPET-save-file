@@ -7,4 +7,4 @@ THIS IS A SAVE FILE FOR AFTER YOU WIN THE GAME! SO YOU WILL UNLOCK CHAPTER SELEC
 
 paste this file into C:\Users\YOURNAME\AppData\Roaming\KinitoPET
 
-you must replace 'YOURNAME' with your actual device thingy
+you must replace 'YOURNAME' with your actual device thingy.
